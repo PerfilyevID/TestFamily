@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFamily", "TestFamily\TestFamily.csproj", "{09F3B03D-6B7D-4DD3-8EFD-AB9BDA80E0E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Revit2019|x64 = Revit2019|x64
+		Revit2020|x64 = Revit2020|x64
+		Revit2021|x64 = Revit2021|x64
+		Revit2022|x64 = Revit2022|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F3B03D-6B7D-4DD3-8EFD-AB9BDA80E0E2}.Revit2019|x64.ActiveCfg = Revit2019|x64
+		{09F3B03D-6B7D-4DD3-8EFD-AB9BDA80E0E2}.Revit2019|x64.Build.0 = Revit2019|x64
+		{09F3B03D-6B7D-4DD3-8EFD-AB9BDA80E0E2}.Revit2020|x64.ActiveCfg = Revit2020|x64
+		{09F3B03D-6B7D-4DD3-8EFD-AB9BDA80E0E2}.Revit2020|x64.Build.0 = Revit2020|x64
+		{09F3B03D-6B7D-4DD3-8EFD-AB9BDA80E0E2}.Revit2021|x64.ActiveCfg = Revit2021|x64
+		{09F3B03D-6B7D-4DD3-8EFD-AB9BDA80E0E2}.Revit2021|x64.Build.0 = Revit2021|x64
+		{09F3B03D-6B7D-4DD3-8EFD-AB9BDA80E0E2}.Revit2022|x64.ActiveCfg = Revit2022|x64
+		{09F3B03D-6B7D-4DD3-8EFD-AB9BDA80E0E2}.Revit2022|x64.Build.0 = Revit2022|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABAB848-FAB4-4A45-B8A8-BAA0D2D6D062}
+	EndGlobalSection
+EndGlobal

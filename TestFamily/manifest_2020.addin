@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>.\TestFamily.dll</Assembly>
+		<AddInId>eb7f8aa8-daa8-4468-bf0b-40d25a5f256a</AddInId>
+		<FullClassName>TestFamily.CmdBuildFamily</FullClassName>
+		<Text>CreateFamily</Text>
+		<VendorId>perfilyev.id@gmail.com</VendorId>
+		<VendorDescription>PerfilyevID, www.linkedin.com/in/perfilevid</VendorDescription>
+		<AvailabilityClassName>TestFamily.Availability.StaticAvailable</AvailabilityClassName>
+	</AddIn>
+</RevitAddIns>
